@@ -1,2 +1,2 @@
 # Maze project
-# Development in Progrress.
+# Development in Progres.
